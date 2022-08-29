@@ -74,14 +74,14 @@ Alice Mugnini - a.mugnini@staff.univpm.it
 Alessia Arteconi - a.arteconi@staff.univpm.it
 
 Please cite CCB Flex Sim by using the information below:
-@article{EVENS2022119154,
-title = {Design energy flexibility characterisation of a heat pump and thermal energy storage in a Comfort and Climate Box},
-journal = {Applied Thermal Engineering},
-volume = {216},
-pages = {119154},
-year = {2022},
-issn = {1359-4311},
-doi = {https://doi.org/10.1016/j.applthermaleng.2022.119154},
-author = {Maarten Evens and Alice Mugnini and Alessia Arteconi},
-keywords = {Heat pump, Energy flexibility, Flexibility quantification, Demand response, Thermal energy storage, Comfort and climate box},
+- @article{EVENS2022119154,
+- Title = {Design energy flexibility characterisation of a heat pump and thermal energy storage in a Comfort and Climate Box},
+- Journal = {Applied Thermal Engineering},
+- Volume = {216},
+- Article ID = {119154},
+- Year = {2022},
+- Issn = {1359-4311},
+- Doi = {https://doi.org/10.1016/j.applthermaleng.2022.119154},
+- Author = {Maarten Evens and Alice Mugnini and Alessia Arteconi},
+- Keywords = {Heat pump, Energy flexibility, Flexibility quantification, Demand response, Thermal energy storage, Comfort and climate box},
 }
